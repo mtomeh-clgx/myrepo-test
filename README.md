@@ -1,2 +1,2 @@
 # myrepo-test
-This is a test "Hellow Git!!"
+This is a test "Hello Git!!"
